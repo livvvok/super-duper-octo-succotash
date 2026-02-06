@@ -1,0 +1,5 @@
+.row > div {
+    border: solid rgb(0, 0, 0) 2px; 
+background-color: rgb(185, 222, 255);
+height: 30px;
+}
